@@ -1,0 +1,39 @@
+_repo: The-Best-Short-Stories-of-1918and-the-Yearbook-of-the-American-Short-Story_39635
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: O'Brien, Edward Joseph Harrington
+    alias: Harrington, Joseph F.
+    birthdate: 1890
+    deathdate: 1941
+    gutenberg_agent_id: '3022'
+    url: http://www.gutenberg.org/2009/agents/3022
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Joseph_Harrington_O'Brien
+description: ''
+gutenberg_issued: '2012-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'American fiction -- 20th century'
+tableOfContents: A simple act of piety / Achmed Abdullah -- Cruelties / Edwina Stanton
+  Babcock -- Buster / Katharine Holland Brown -- The open window / Charles Caldwell
+  Dobie -- Blind vision / Mary Mitchell Freedley -- Imagination / Gordon Hall Gerould
+  -- In Maulmain fever-ward / George Gilbert -- The father's hand / G. Humphrey --
+  The visit of the master / Arthur Johnson -- In the open code / Burton Kline -- The
+  willow walk / Sinclair Lewis -- The story Vinton heard at Mallorie / Katharine Prescott
+  Moseley -- The toast to forty-five / William Dudly -- Extra men / Harrison Rhodes
+  -- Solitaire / Fleta Campbell Springer -- The dark hour / Wilbur Daniel Steele --
+  The bird of Serbia / Julian Street -- At Isham's / Edward C. Venable -- De Vilmarte's
+  luck / Mary Heaton Vorse -- The white battalion / Frances Gilchrist Wood.
+title: The Best Short Stories of 1918, and the Yearbook of the American Short Story
+url: http://www.gutenberg.org/ebooks/39635
