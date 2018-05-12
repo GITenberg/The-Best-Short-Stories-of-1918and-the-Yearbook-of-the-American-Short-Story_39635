@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3022
     wikipedia: http://en.wikipedia.org/wiki/Edward_Joseph_Harrington_O'Brien
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39635#The-Best-Short-Stories-of-1918and-the-Yearbook-of-the-American-Short-Story
 gutenberg_issued: '2012-05-06'
 gutenberg_type: Text
 identifiers:
